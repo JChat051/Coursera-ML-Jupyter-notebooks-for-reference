@@ -1,2 +1,1 @@
-# Test
-github usage 
+# Coursera ML Jupyter notebooks for reference 
